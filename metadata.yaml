@@ -1,5 +1,5 @@
 _repo: Champlain_52669
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Ronjat, Etienne Antoine Eugène
@@ -9,6 +9,9 @@ contributor:
     birthdate: 1822
     gutenberg_agent_id: '46990'
     url: http://www.gutenberg.org/2009/agents/46990
+covers:
+- cover_type: archival
+  image_path: 52669-h/images/cover.jpg
 creator:
   author:
     agent_name: Hanotaux, Gabriel
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '46989'
     url: http://www.gutenberg.org/2009/agents/46989
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52669#Champlain
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2016-07-29'
 gutenberg_type: Text
